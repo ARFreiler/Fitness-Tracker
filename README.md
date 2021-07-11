@@ -12,17 +12,37 @@
 
 [Links](#links)
 
+[Screenshots](#screenshots)
+
+[Author](#author)
+
 [License](#license)
 
 ## Description
 
+The Fitness Tracker application is a simple workout companion. It allows the user to create and add exercises to their workout regimen. The application provides the user with a stats page that allows them to analyze recent workout activity and performance.
+
 ## Installation
+
+Run _node server.js_ in the command line.
 
 ## Credits
 
 [MDN Documents](https://developer.mozilla.org/en-US/docs/Learn)
 
+[MongoDB](https://www.mongodb.com/)
+
+Penn instructional staff: Anthony Briglia and Tom Woods.
+
 ## Links
+
+[Repo](https://github.com/ARFreiler/Fitness-Tracker)
+
+## Screenshots
+
+## Author
+
+This application was written by Ashleigh Freiler. She can be contacted by email at roseashtech@gmail.com
 
 ## License
 
