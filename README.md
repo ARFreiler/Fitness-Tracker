@@ -40,6 +40,12 @@ Penn instructional staff: Anthony Briglia and Tom Woods.
 
 ## Screenshots
 
+![FT01](https://user-images.githubusercontent.com/75546695/125213305-df4cac00-e27f-11eb-8cc1-9ec637add0dc.jpg)
+
+![FT03](https://user-images.githubusercontent.com/75546695/125213335-fc817a80-e27f-11eb-92d8-2057dccb009f.jpg)
+
+![FT04](https://user-images.githubusercontent.com/75546695/125213342-04411f00-e280-11eb-8df9-b1201e763066.jpg)
+
 ## Author
 
 This application was written by Ashleigh Freiler. She can be contacted by email at roseashtech@gmail.com
