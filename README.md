@@ -38,6 +38,8 @@ Penn instructional staff: Anthony Briglia and Tom Woods.
 
 [Repo](https://github.com/ARFreiler/Fitness-Tracker)
 
+[Heroku](https://fitness-appy.herokuapp.com/?id=60ecc217dcd93300159085d9)
+
 ## Screenshots
 
 ![FT01](https://user-images.githubusercontent.com/75546695/125213305-df4cac00-e27f-11eb-8cc1-9ec637add0dc.jpg)
